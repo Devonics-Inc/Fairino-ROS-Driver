@@ -21,6 +21,7 @@ To change the web version to 3.7.8 (refernce comatability table below in figure 
 5. After restarting, verify the web version in **System > About**.
 
 <img width="785" height="152" alt="image" src="https://github.com/user-attachments/assets/f928a4e5-0212-47ad-b243-8a1784d3f3bb" />
+
 (Figure 1.1)
 
 ## Setting Up the ROS2 Workspace
