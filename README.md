@@ -11,7 +11,7 @@ To verify the web version on your robot:
 
 ## Updating the Web Version
 
-To change the web version to 3.7.8:
+To change the web version to 3.7.8 (refernce comatability table below in figure 1.1):
 1. Download the software package from [Fairino Robot Software](https://fairino-doc-en.readthedocs.io/3.7.8/download.html#robot-software):
    - Select **FAIRINO-CobotSoftware-QX-V3.7.8-Release-250120**.
    - Unzip the folder to your file system.
@@ -19,6 +19,9 @@ To change the web version to 3.7.8:
 3. In the **Software Upgrade** section, click **Choose File** and select `software.tar.gz` from the unzipped folder.
 4. Click **Upload** and wait until the Web App prompts you to restart the control box.
 5. After restarting, verify the web version in **System > About**.
+
+<img width="785" height="152" alt="image" src="https://github.com/user-attachments/assets/f928a4e5-0212-47ad-b243-8a1784d3f3bb" />
+(Figure 1.1)
 
 ## Setting Up the ROS2 Workspace
 
