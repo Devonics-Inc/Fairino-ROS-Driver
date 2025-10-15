@@ -20,7 +20,8 @@ To change the web version to 3.7.8 (refernce comatability table below in figure 
 4. Click **Upload** and wait until the Web App prompts you to restart the control box.
 5. After restarting, verify the web version in **System > About**.
 
-<img width="785" height="152" alt="image" src="https://github.com/user-attachments/assets/f928a4e5-0212-47ad-b243-8a1784d3f3bb" />
+<img width="1179" height="271" alt="image" src="https://github.com/user-attachments/assets/be58b073-a58f-4e81-9b16-9239b50a6be1" />
+
 
 (Figure 1.1)
 
